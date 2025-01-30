@@ -56,7 +56,7 @@ body .markdown-section {
 
 @media (prefers-color-scheme: dark) {
 :root {
-/*
+
     --link-color: #EA7688!important;
     --link-text-decoration: none!important;
     --link-text-decoration--hover: underline!important;
@@ -81,7 +81,7 @@ body .markdown-section {
     --pagination-title-color: #EA7688!important;
     }
 }
-*/
+
 
 /* CSS to better visually match Docsify pages within Moodle LMS (uncomment to use) */
 /*
